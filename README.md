@@ -8,4 +8,4 @@ Currently I am working on a couple projects when I have time over, these are:
 A `Python` docstring parser and feature extractor with support for passive and active type checking at runtime, docstring logging and more.
 
 ##### `trident`
-An asynchronous system automation library with plugin support, making it possible to generate pipelines of setup scripts, system monitoring and similar. (`RSD` is mean to be a replacement to this)
+An asynchronous system automation library with plugin support, making it possible to generate pipelines of setup scripts, system monitoring and similar.
